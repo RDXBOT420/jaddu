@@ -2,7 +2,7 @@
 ```markdown
 # 🚀 Telegram Bot 1
 
-Welcome to BGMI_DDOS telegram_bot This is a advanced bot built using Python and the Telebot library, designed to enhance your Telegram experience.
+Welcome to JADU_DDOS telegram_bot This is a advanced bot built using Python and the Telebot library, designed to enhance your Telegram experience.
 
 ---
 
@@ -18,27 +18,22 @@ Welcome to BGMI_DDOS telegram_bot This is a advanced bot built using Python and 
 
 Follow these steps to set up the project on your local machine:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/VENOM-CRAZY-OP/venom-v8
-   ```
-
-2. **Navigate to the project directory:**
+1. **Navigate to the project directory:**
    ```bash
    cd Telegram_bot
    ```
 
-3. **Make all scripts executable:**
+2. **Make all scripts executable:**
    ```bash
    chmod +x *
    ```
 
-4. **Install the required library:**
+3. **Install the required library:**
    ```bash
    pip install telebot
    ```
 
-5. **Run the bot:**
+4. **Run the bot:**
    ```bash
    python main.py
    ```
@@ -67,7 +62,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 If you have any questions or feedback, reach out via:
 
-- Telegram: [@venomXcrazy](https://t.me/venomXcrazy)
+- Telegram: [@SKBOSSJADU](https://t.me/SKBOSSJADU)
 
 ---
 
